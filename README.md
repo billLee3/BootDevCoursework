@@ -8,5 +8,7 @@ Insertion sort is the only non-recursive sort in this list.
   Insertion sort is better on short nearly sorted lists
   MergeSort is a stable sort but can eat up memory because of how many duplicates of the list there are
   QuickSort uses a pivot point but can degrade over time if the highest or lowest value is always picked
+
+9/6/2025 - Ran through the stacks portion of the course. Wrote the Balanced Parantheses problem.
   
 
