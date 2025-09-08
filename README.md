@@ -10,5 +10,7 @@ Insertion sort is the only non-recursive sort in this list.
   QuickSort uses a pivot point but can degrade over time if the highest or lowest value is always picked
 
 9/6/2025 - Ran through the stacks portion of the course. Wrote the Balanced Parantheses problem.
+
+9/7/2025 - Worked through queue examples.
   
 
