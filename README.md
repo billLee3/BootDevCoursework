@@ -12,5 +12,7 @@ Insertion sort is the only non-recursive sort in this list.
 9/6/2025 - Ran through the stacks portion of the course. Wrote the Balanced Parantheses problem.
 
 9/7/2025 - Worked through queue examples.
+
+9/8/2025 - Worked on linked list portion. Got held up by __iter__ functions (new concept)
   
 
