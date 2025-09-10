@@ -14,5 +14,6 @@ Insertion sort is the only non-recursive sort in this list.
 9/7/2025 - Worked through queue examples.
 
 9/8/2025 - Worked on linked list portion. Got held up by __iter__ functions (new concept)
-  
+
+9/9/2025 - Finished linked list portion and then started learning basic C programming which was really fun. 
 
