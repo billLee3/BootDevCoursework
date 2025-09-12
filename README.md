@@ -18,3 +18,5 @@ Insertion sort is the only non-recursive sort in this list.
 9/9/2025 - Finished linked list portion and then started learning basic C programming which was really fun. 
 
 9/10/2025 - Started on trees
+
+9/11/2025 - Struggled through trees and some C coursework. 
