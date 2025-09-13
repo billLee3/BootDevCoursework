@@ -20,3 +20,6 @@ Insertion sort is the only non-recursive sort in this list.
 9/10/2025 - Started on trees
 
 9/11/2025 - Struggled through trees and some C coursework. 
+
+9/12/2025 - refreshing on recursion with grokking algos book
+
